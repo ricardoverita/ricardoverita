@@ -30,56 +30,56 @@ My main strength is combining **technical execution with business understanding*
 ## ⚡ Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4" />
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=00ADD8" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/NestJS-111111?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/PHP-111111?style=flat&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Go-111111?style=flat&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/NestJS-111111?style=flat&logo=nestjs&logoColor=E0234E" />
+  <img src="https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat&logo=next.js&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=flat&logo=tailwind-css&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Bootstrap-111111?style=flat&logo=bootstrap&logoColor=7952B3" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Magento_2-111111?style=for-the-badge&logo=magento&logoColor=EE672F" />
-  <img src="https://img.shields.io/badge/Adobe_Commerce-111111?style=for-the-badge&logo=adobe&logoColor=FF0000" />
-  <img src="https://img.shields.io/badge/WooCommerce-111111?style=for-the-badge&logo=woocommerce&logoColor=96588A" />
-  <img src="https://img.shields.io/badge/WordPress-111111?style=for-the-badge&logo=wordpress&logoColor=21759B" />
-  <img src="https://img.shields.io/badge/Marketplace-111111?style=for-the-badge&logo=shopify&logoColor=7AB55C" />
-  <img src="https://img.shields.io/badge/GraphQL-111111?style=for-the-badge&logo=graphql&logoColor=E10098" />
-  <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Magento_2-111111?style=flat&logo=magento&logoColor=EE672F" />
+  <img src="https://img.shields.io/badge/Adobe_Commerce-111111?style=flat&logo=adobe&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/WooCommerce-111111?style=flat&logo=woocommerce&logoColor=96588A" />
+  <img src="https://img.shields.io/badge/WordPress-111111?style=flat&logo=wordpress&logoColor=21759B" />
+  <img src="https://img.shields.io/badge/Marketplace-111111?style=flat&logo=shopify&logoColor=7AB55C" />
+  <img src="https://img.shields.io/badge/GraphQL-111111?style=flat&logo=graphql&logoColor=E10098" />
+  <img src="https://img.shields.io/badge/REST_API-111111?style=flat&logo=fastapi&logoColor=009688" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=DC382D" />
-  <img src="https://img.shields.io/badge/Elasticsearch-111111?style=for-the-badge&logo=elasticsearch&logoColor=005571" />
-  <img src="https://img.shields.io/badge/OpenSearch-111111?style=for-the-badge&logo=opensearch&logoColor=005EB8" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=flat&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Redis-111111?style=flat&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/Elasticsearch-111111?style=flat&logo=elasticsearch&logoColor=005571" />
+  <img src="https://img.shields.io/badge/OpenSearch-111111?style=flat&logo=opensearch&logoColor=005EB8" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Nginx-111111?style=for-the-badge&logo=nginx&logoColor=009639" />
-  <img src="https://img.shields.io/badge/Cloudflare-111111?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=github-actions&logoColor=2088FF" />
-  <img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/DigitalOcean-111111?style=for-the-badge&logo=digitalocean&logoColor=0080FF" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=flat&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Nginx-111111?style=flat&logo=nginx&logoColor=009639" />
+  <img src="https://img.shields.io/badge/Cloudflare-111111?style=flat&logo=cloudflare&logoColor=F38020" />
+  <img src="https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-111111?style=flat&logo=github-actions&logoColor=2088FF" />
+  <img src="https://img.shields.io/badge/AWS-111111?style=flat&logo=amazon-aws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/DigitalOcean-111111?style=flat&logo=digitalocean&logoColor=0080FF" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/GTM-111111?style=for-the-badge&logo=google-tag-manager&logoColor=246FDB" />
-  <img src="https://img.shields.io/badge/GA4-111111?style=for-the-badge&logo=googleanalytics&logoColor=E37400" />
-  <img src="https://img.shields.io/badge/Meta_Pixel-111111?style=for-the-badge&logo=meta&logoColor=0866FF" />
-  <img src="https://img.shields.io/badge/TikTok_Pixel-111111?style=for-the-badge&logo=tiktok&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/GTM-111111?style=flat&logo=google-tag-manager&logoColor=246FDB" />
+  <img src="https://img.shields.io/badge/GA4-111111?style=flat&logo=googleanalytics&logoColor=E37400" />
+  <img src="https://img.shields.io/badge/Meta_Pixel-111111?style=flat&logo=meta&logoColor=0866FF" />
+  <img src="https://img.shields.io/badge/TikTok_Pixel-111111?style=flat&logo=tiktok&logoColor=FFFFFF" />
 </p>
 
 ---
