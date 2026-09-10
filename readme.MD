@@ -1,29 +1,23 @@
 # 👋 Hi, I'm Ricardo Vera
 
-<h3 align="center">Senior Full Stack Developer | E-commerce Architect | Magento / Adobe Commerce Specialist</h3>
+<h3 align="center">Senior Full Stack Developer · E-commerce Architect · Magento / Adobe Commerce Specialist</h3>
 
 <p align="center">
   🇵🇪 Peru · 🇮🇹 Italy · Remote / Hybrid · Open to international opportunities
 </p>
 
 <p align="center">
-  I build scalable digital products focused on <strong>e-commerce, performance, integrations, architecture, and business growth</strong>.
-</p>
-
-<p align="center">
   <a href="https://github.com/ricardoverita">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/ricardo-vera/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/ricardo-vera/">LinkedIn</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Senior Full Stack Developer** with strong experience in **e-commerce platforms, Magento / Adobe Commerce, custom web applications, backend integrations, performance optimization, and technical leadership**.
+I build and scale **e-commerce platforms and custom web products** — from architecture and integrations to performance, tracking, and production releases.
 
-I have worked on projects for retail, telecommunications, digital agencies, and commerce platforms, participating in the full software lifecycle: architecture, development, integrations, performance improvements, deployments, and production support.
-
-My main strength is combining **technical execution with business understanding**. I do not only build features; I help create digital products that are scalable, measurable, maintainable, and aligned with business goals.
+Experience across retail, telecom, agencies, and commerce platforms. I lead development teams across Peru and Chile while staying close to the code. My edge: I translate business goals into technical decisions that are **scalable, measurable, and shippable on the committed date**.
 
 ---
 
@@ -48,6 +42,7 @@ My main strength is combining **technical execution with business understanding*
 <p>
   <img src="https://img.shields.io/badge/Magento_2-111111?style=flat&logo=magento&logoColor=EE672F" />
   <img src="https://img.shields.io/badge/Adobe_Commerce-111111?style=flat&logo=adobe&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/Hyv%C3%A4-111111?style=flat&logo=magento&logoColor=9CD5C6" />
   <img src="https://img.shields.io/badge/WooCommerce-111111?style=flat&logo=woocommerce&logoColor=96588A" />
   <img src="https://img.shields.io/badge/WordPress-111111?style=flat&logo=wordpress&logoColor=21759B" />
   <img src="https://img.shields.io/badge/Marketplace-111111?style=flat&logo=shopify&logoColor=7AB55C" />
@@ -61,6 +56,8 @@ My main strength is combining **technical execution with business understanding*
   <img src="https://img.shields.io/badge/Redis-111111?style=flat&logo=redis&logoColor=DC382D" />
   <img src="https://img.shields.io/badge/Elasticsearch-111111?style=flat&logo=elasticsearch&logoColor=005571" />
   <img src="https://img.shields.io/badge/OpenSearch-111111?style=flat&logo=opensearch&logoColor=005EB8" />
+  <img src="https://img.shields.io/badge/Varnish-111111?style=flat&logo=varnish&logoColor=CC0000" />
+  <img src="https://img.shields.io/badge/Prisma-111111?style=flat&logo=prisma&logoColor=2D3748" />
 </p>
 
 <p>
@@ -84,136 +81,38 @@ My main strength is combining **technical execution with business understanding*
 
 ---
 
-## 💼 What I Bring to a Team
+## 🛒 What I Do
 
-- Strong full stack development background with deep e-commerce experience.
-- Ability to understand business requirements and translate them into technical solutions.
-- Experience leading developers and coordinating technical delivery across teams.
-- Hands-on expertise in Magento / Adobe Commerce, integrations, checkout, catalog, performance, and analytics.
-- Capacity to work across backend, frontend, infrastructure, APIs, and production environments.
-- Focus on clean architecture, maintainable code, scalability, and measurable results.
-
----
-
-## 🛒 E-commerce Expertise
-
-I specialize in building and improving e-commerce platforms where performance, reliability, tracking, and conversion matter.
-
-Key areas of experience:
-
-- Magento 2 / Adobe Commerce development.
-- Custom checkout flows.
-- Store pickup and delivery integrations.
-- Loyalty systems and points-to-money redemption.
-- ERP, CRM, payment gateway, and third-party API integrations.
-- Product catalog feeds for Meta, TikTok, Google, and other platforms.
-- Search and indexing with Elasticsearch / OpenSearch.
-- Redis, Varnish, cache strategies, and performance optimization.
-- Tracking architecture using GTM, GA4, Meta Pixel, TikTok Pixel, and DataLayer.
-- Production deployments, rebranding launches, and migration support.
-
----
-
-## 🧑‍💻 Leadership & Collaboration
-
-I have experience working not only as a developer, but also as a technical lead and coordination point between development teams, business stakeholders, and delivery areas.
-
-I have been involved in:
-
-- Leading development teams across Peru and Chile.
-- Coordinating technical leads across multiple e-commerce areas.
-- Supporting architecture decisions and technical planning.
-- Reviewing implementation strategies and delivery risks.
-- Helping teams solve production issues and critical blockers.
-- Supporting deployments and releases with business impact.
-
-I enjoy being close to the code while also keeping a clear view of the product, the users, and the business goal behind each technical decision.
-
----
-
-## 🏆 Selected Impact
-
-- Participated in e-commerce rebranding projects delivered to production on committed dates without downtime.
-- Improved performance on commerce pages, reducing loading times and improving user experience.
-- Worked on complex integrations involving checkout, delivery, store pickup, loyalty, ERP, and analytics.
-- Helped structure technical solutions for scalable platforms, marketplaces, SaaS products, and MVPs.
-- Supported teams in high-pressure scenarios involving production issues and business-critical flows.
+- **Magento 2 / Adobe Commerce** — custom modules, checkout flows, catalog, store pickup & delivery, loyalty and points-to-money redemption.
+- **Integrations** — ERP, CRM, payment gateways, and third-party APIs (REST / GraphQL).
+- **Performance** — Redis, Varnish, Elasticsearch / OpenSearch and cache strategy: **LCP from 6.2s to 1.4s** on commerce pages.
+- **Tracking & growth** — GTM, GA4, DataLayer, Meta / TikTok / Google product feeds and pixels.
+- **Delivery** — rebrandings and migrations shipped to production on date, without downtime.
+- **Leadership** — technical lead for teams in Peru and Chile: architecture calls, code review, and unblocking critical production issues.
 
 ---
 
 ## 🧩 Featured Projects
 
-### 🎵 EsLetras
+**🎵 EsLetras** — Lyrics platform built to scale: SEO-first architecture, high-volume content, search and indexing, moderation flows.
+`Go` `PostgreSQL` `OpenSearch` `Docker` `Nginx` `Cloudflare`
 
-Lyrics platform designed to scale with SEO, search, moderation flows, and efficient content architecture.
+**🏢 MiEmpresaYa** — Online company-creation platform: guided flows, role-based access (admin / notary), and AI-assisted business name suggestions.
+`Next.js` `NestJS` `PostgreSQL` `Prisma`
 
-**Stack:** Go, PostgreSQL, OpenSearch, Docker, Nginx, Cloudflare
-
-Focus areas:
-
-- SEO-friendly architecture.
-- High-volume content management.
-- Search and indexing.
-- Admin moderation flows.
-- Scalable sitemap strategy.
-- Cloudflare and infrastructure optimization.
-
-### 🏢 MiEmpresaYa
-
-Online business creation platform concept with guided flows, admin panel, notary roles, and future AI-assisted modules.
-
-**Stack:** Next.js, NestJS, PostgreSQL, Prisma
-
-Focus areas:
-
-- MVP architecture.
-- Role-based access control.
-- Admin and operational workflows.
-- AI-assisted business name and company purpose suggestions.
-- Scalable SaaS-style structure.
-
-### ✈️ SearchFlight
-
-Concept for a flight tracking platform that continuously compares prices and alerts users when a better price appears.
-
-Focus areas:
-
-- Price monitoring.
-- Scheduled searches.
-- Notification logic.
-- Data comparison and automation.
-
----
-
-## 🧠 Product & Business Mindset
-
-I like working on projects where technology has a clear purpose. My approach is to understand the business first and then choose the right technical path.
-
-I can help with questions like:
-
-- What should be custom-built and what can be solved with existing tools?
-- How can we launch an MVP quickly without creating technical debt too early?
-- How can we improve conversion, tracking, speed, and reliability?
-- How can we design an architecture that can grow over time?
-- How can we make technical decisions that support business goals?
+**✈️ SearchFlight** — Flight price tracker: scheduled searches, price comparison, and alerts when a better fare appears.
+`Automation` `Notifications`
 
 ---
 
 ## 🌍 Languages
 
-- Spanish — Native
-- English — Professional
-- Italian — Professional
+Spanish (Native) · English (Professional) · Italian (Professional)
 
 ---
 
 ## 📫 Contact
 
-- **GitHub:** [github.com/ricardoverita](https://github.com/ricardoverita)
-- **LinkedIn:** [linkedin.com/in/ricardo-vera](https://www.linkedin.com/in/ricardo-vera/)
-
----
-
-## ⚡ Motto
+[GitHub](https://github.com/ricardoverita) · [LinkedIn](https://www.linkedin.com/in/ricardo-vera/)
 
 > Building digital solutions with focus on code, business, performance, and growth.
